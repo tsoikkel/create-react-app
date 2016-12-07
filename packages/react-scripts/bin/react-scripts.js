@@ -20,3 +20,7 @@ default:
   console.log('Perhaps you need to update react-scripts?');
   break;
 }
+
+var test = 'test';
+
+console.log(test);
